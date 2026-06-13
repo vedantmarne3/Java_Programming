@@ -55,6 +55,3 @@ class program50
 }
 //Time Complexity : O(N/2)  order By N by 2
 // Where N >= 0
-
-
-//Check Wether question aasal tr boolean vaparay ch true or false

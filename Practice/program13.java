@@ -39,4 +39,3 @@ class NumberX
 }
 //Time Complexity : O(N)
 // Where N >= 0
-//Optimization - budget 1000 tychya aat baghay cha shirt
